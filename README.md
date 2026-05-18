@@ -1,17 +1,12 @@
 # Hello, I'm Jess
 <a href="https://www.linkedin.com/in/jess-andrey-sundiang/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-[Brief Introduction - Remove this afterwards]
-
-I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
+II am a 3rd-year Information Technology student with a strong passion for cybersecurity, threat detection, and security operations. I enjoy analyzing security incidents, monitoring network activity, and solving technical problems through hands-on labs and practical experience. I am currently building my skills in SOC operations, incident response, SIEM analysis, and threat hunting while continuously learning industry-standard tools and technologies.
 
 ## Objective
-[Provide Objective - Remove this afterwards]]
-
-My journey in information technology has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+Aspiring Cybersecurity Analyst seeking an opportunity to join a Security Operations Center (SOC) as a Tier 1 Analyst. Dedicated to strengthening defensive security skills through hands-on experience in log analysis, threat detection, incident response, and security monitoring while contributing to organizational security operations.
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
@@ -23,7 +18,6 @@ My journey in information technology has led me to develop a passion for cyberse
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
 ## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
 
 ### Network
 <div>
@@ -46,7 +40,6 @@ My journey in information technology has led me to develop a passion for cyberse
 </div>
 
 ## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
 <div>
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-Tech%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
