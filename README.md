@@ -1,7 +1,7 @@
 # Hello, I'm Jess
 <a href="https://www.linkedin.com/in/jess-andrey-sundiang/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-II am a 3rd-year Information Technology student with a strong passion for cybersecurity, threat detection, and security operations. I enjoy analyzing security incidents, monitoring network activity, and solving technical problems through hands-on labs and practical experience. I am currently building my skills in SOC operations, incident response, SIEM analysis, and threat hunting while continuously learning industry-standard tools and technologies.
+I am a 3rd-year Information Technology student with a strong passion for cybersecurity, threat detection, and security operations. I enjoy analyzing security incidents, monitoring network activity, and solving technical problems through hands-on labs and practical experience. I am currently building my skills in SOC operations, incident response, SIEM analysis, and threat hunting while continuously learning industry-standard tools and technologies.
 
 ## Objective
 Aspiring Cybersecurity Analyst seeking an opportunity to join a Security Operations Center (SOC) as a Tier 1 Analyst. Dedicated to strengthening defensive security skills through hands-on experience in log analysis, threat detection, incident response, and security monitoring while contributing to organizational security operations.
